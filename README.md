@@ -11,7 +11,7 @@ Bem-vindo ao Jogo do Número Secreto! Este é um jogo de adivinhação onde voc�
 
 ## Para acessar o jogo
 
-Para jogar online, acesse o jogo [aqui](link_do_seu_jogo)
+Para jogar online, acesse o jogo [aqui]([link_do_seu_jogo](https://jogo-do-numero-secreto-alpha-mauve.vercel.app/))
 
 ## Contribuição
 
